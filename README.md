@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I’m passionate about DevOps and always eager to 
 - **Linux Administration:** System setup, security, and performance tuning.
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/pratiksha](https://linkedin.com/in/pratiksha)
+- **LinkedIn:** [www.linkedin.com/in/pratiksha-pawar-62353a309]
 
 ### 😄 Pronouns:
 - She/Her

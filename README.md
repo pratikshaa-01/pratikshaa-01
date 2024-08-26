@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I’m passionate about DevOps and always eager to explore new technologies and opportunities. Here’s a bit more about me:
 
 ### 🔭 I’m currently working on...
-- **DevOps Project:** I’m actively working on enhancing CI/CD pipelines, automating deployments, and managing infrastructure. [Project Name](URL to Project) (if applicable).
+- **DevOps Project:** I’m actively working on enhancing CI/CD pipelines, automating deployments, and managing infrastructure. 
 
 ### 🌱 I’m currently learning...
 - **New DevOps Technologies:** Exploring the latest in DevOps practices and tools, including Kubernetes, Docker, and cloud services to stay ahead in the field.
